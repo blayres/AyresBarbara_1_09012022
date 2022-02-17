@@ -428,6 +428,7 @@ span {
 .marseille-activites {
   display: flex;
   margin-left: -20px;
+  width: calc(100% + 20px);
 }
 
 .marseille-activites-column {
@@ -516,7 +517,7 @@ span {
 .footer-blocs {
   display: flex;
   justify-content: space-between;
-  width: 100%;
+  width: calc(100% - 40px);
   max-width: 1440px;
   margin: auto;
   padding: 0px 20px;
@@ -607,7 +608,7 @@ span {
 
   .bloc-populaires {
     margin-left: -20px;
-    width: 105%
+    width: 100%
   }
 
   .populaires-tout{
@@ -759,7 +760,7 @@ span {
   }
 
   .bloc-populaires {
-    width: 112%;
+    width: calc(100% + 40px);
     margin-left: -20px;
 
   }
