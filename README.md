@@ -22,5 +22,4 @@ Par contre, ils ne doivent pas être fonctionnels.
 des liens. Ils doivent mener respectivement vers la section
 “Hébergements à Marseille” et “Activités à Marseille”.
 
-
 Lien : https://blayres.github.io/AyresBarbara_1_09012022/
