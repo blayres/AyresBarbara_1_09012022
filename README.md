@@ -1,4 +1,6 @@
-Booki - Transformation d'une maquette en site web avec HTML & CSS
+# Booki - Transformation d'une maquette en site web avec HTML & CSS
+
+================ FR ====================
 
 Booki est une petite entreprise proposant un outil de planification de vacances ! Son site permet aux usagers de trouver des hébergements et des activités dans la ville de leur choix. Les hébergements peuvent également être filtrés par thématique, par exemple leur budget ou leur ambiance.
 
@@ -21,5 +23,7 @@ Par contre, ils ne doivent pas être fonctionnels.
 ● Les textes “Hébergements” et “Activités”, situés dans l’en-tête, sont
 des liens. Ils doivent mener respectivement vers la section
 “Hébergements à Marseille” et “Activités à Marseille”.
+
+================ EN ====================
 
 Lien : https://blayres.github.io/AyresBarbara_1_09012022/
